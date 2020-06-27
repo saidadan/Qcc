@@ -1,2 +1,2 @@
 # Qcc
-Qcc repo
+Qcc repo for git commands demonstration.
